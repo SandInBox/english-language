@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('fonts/TTMussels-Thin.eot');
+    src: local('TT Mussels Thin'), local('TTMussels-Thin'),
+        url('fonts/TTMussels-Thin.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TTMussels-Thin.woff2') format('woff2'),
+        url('fonts/TTMussels-Thin.woff') format('woff'),
+        url('fonts/TTMussels-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('fonts/TTMussels-Regular.eot');
+    src: local('TT Mussels Regular'), local('TTMussels-Regular'),
+        url('fonts/TTMussels-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TTMussels-Regular.woff2') format('woff2'),
+        url('fonts/TTMussels-Regular.woff') format('woff'),
+        url('fonts/TTMussels-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('fonts/TTMussels-LightItalic.eot');
+    src: local('TT Mussels Light Italic'), local('TTMussels-LightItalic'),
+        url('fonts/TMussels-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TTMussels-LightItalic.woff2') format('woff2'),
+        url('fonts/TTMussels-LightItalic.woff') format('woff'),
+        url('fonts/TTMussels-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('fonts/TTMussels-Bold.eot');
+    src: local('TT Mussels Bold'), local('TTMussels-Bold'),
+        url('fonts/TTMussels-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TTMussels-Bold.woff2') format('woff2'),
+        url('fonts/TTMussels-Bold.woff') format('woff'),
+        url('fonts/TTMussels-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('fonts/TTMussels-ExtraBold.eot');
+    src: local('TT Mussels ExtraBold'), local('TTMussels-ExtraBold'),
+        url('fonts/TTMussels-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TTMussels-ExtraBold.woff2') format('woff2'),
+        url('fonts/TTMussels-ExtraBold.woff') format('woff'),
+        url('fonts/TTMussels-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('fonts/TTMussels-Medium.eot');
+    src: local('TT Mussels Medium'), local('TTMussels-Medium'),
+        url('fonts/TTMussels-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TTMussels-Medium.woff2') format('woff2'),
+        url('fonts/TTMussels-Medium.woff') format('woff'),
+        url('fonts/TTMussels-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('fonts/TTMussels-ThinItalic.eot');
+    src: local('TT Mussels Thin Italic'), local('TTMussels-ThinItalic'),
+        url('fonts/TTMussels-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TTMussels-ThinItalic.woff2') format('woff2'),
+        url('fonts/TTMussels-ThinItalic.woff') format('woff'),
+        url('fonts/TTMussels-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('fonts/TTMussels-DemiBold.eot');
+    src: local('TT Mussels DemiBold'), local('TTMussels-DemiBold'),
+        url('fonts/TTMussels-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TTMussels-DemiBold.woff2') format('woff2'),
+        url('fonts/TTMussels-DemiBold.woff') format('woff'),
+        url('fonts/TTMussels-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('fonts/TTMussels-Black.eot');
+    src: local('TT Mussels Black'), local('TTMussels-Black'),
+        url('fonts/TTMussels-Black.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TTMussels-Black.woff2') format('woff2'),
+        url('fonts/TTMussels-Black.woff') format('woff'),
+        url('fonts/TTMussels-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('fonts/TTMussels-Italic.eot');
+    src: local('TT Mussels Italic'), local('TTMussels-Italic'),
+        url('fonts/TTMussels-Italic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TTMussels-Italic.woff2') format('woff2'),
+        url('fonts/TTMussels-Italic.woff') format('woff'),
+        url('fonts/TTMussels-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('fonts/TTMussels-BoldItalic.eot');
+    src: local('TT Mussels Bold Italic'), local('TTMussels-BoldItalic'),
+        url('fonts/TTMussels-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TTMussels-BoldItalic.woff2') format('woff2'),
+        url('fonts/TTMussels-BoldItalic.woff') format('woff'),
+        url('fonts/TTMussels-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('fonts/TTMussels-ExtraBoldItalic.eot');
+    src: local('TT Mussels ExtraBold Italic'), local('TTMussels-ExtraBoldItalic'),
+        url('fonts/TTMussels-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TTMussels-ExtraBoldItalic.woff2') format('woff2'),
+        url('fonts/TTMussels-ExtraBoldItalic.woff') format('woff'),
+        url('fonts/TTMussels-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('TTMussels-MediumItalic.eot');
+    src: local('TT Mussels Medium Italic'), local('TTMussels-MediumItalic'),
+        url('TTMussels-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('TTMussels-MediumItalic.woff2') format('woff2'),
+        url('TTMussels-MediumItalic.woff') format('woff'),
+        url('TTMussels-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('TTMussels-DemiBoldItalic.eot');
+    src: local('TT Mussels DemiBold Italic'), local('TTMussels-DemiBoldItalic'),
+        url('TTMussels-DemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('TTMussels-DemiBoldItalic.woff2') format('woff2'),
+        url('TTMussels-DemiBoldItalic.woff') format('woff'),
+        url('TTMussels-DemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('fonts/TTMussels-Light.eot');
+    src: local('TT Mussels Light'), local('TTMussels-Light'),
+        url('fonts/TTMussels-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TTMussels-Light.woff2') format('woff2'),
+        url('fonts/TTMussels-Light.woff') format('woff'),
+        url('fonts/TTMussels-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('TTMussels-BlackItalic.eot');
+    src: local('TT Mussels Black Italic'), local('TTMussels-BlackItalic'),
+        url('TTMussels-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('TTMussels-BlackItalic.woff2') format('woff2'),
+        url('TTMussels-BlackItalic.woff') format('woff'),
+        url('TTMussels-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('TTMussels-ExtraLightItalic.eot');
+    src: local('TT Mussels ExtraLight Italic'), local('TTMussels-ExtraLightItalic'),
+        url('TTMussels-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('TTMussels-ExtraLightItalic.woff2') format('woff2'),
+        url('TTMussels-ExtraLightItalic.woff') format('woff'),
+        url('TTMussels-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Mussels';
+    src: url('fonts/TTMussels-ExtraLight.eot');
+    src: local('TT Mussels ExtraLight'), local('TTMussels-ExtraLight'),
+        url('fonts/TTMussels-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TTMussels-ExtraLight.woff2') format('woff2'),
+        url('fonts/TTMussels-ExtraLight.woff') format('woff'),
+        url('fonts/TTMussels-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
